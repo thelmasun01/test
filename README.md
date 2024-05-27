@@ -1,2 +1,0 @@
-# test
-Personal website project
